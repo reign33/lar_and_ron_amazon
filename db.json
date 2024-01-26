@@ -1,0 +1,31 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "fashion",
+      "product": "0"
+    },
+    {
+      "name": "Heath",
+      "id": 3
+    },
+    {
+      "name": "Motorcycle",
+      "id": 5
+    },
+    {
+      "name": "Books",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

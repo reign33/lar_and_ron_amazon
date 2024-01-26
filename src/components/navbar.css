@@ -1,0 +1,28 @@
+.dropdown:hover .dropdown_content{
+    @apply block
+}
+
+.sign_in {
+    border-bottom: 0.1px solid #ddd7d7;
+}
+
+.right_content {
+    border-left: 0.1px solid #ddd7d7;
+}
+
+.border_color:hover {
+    border: 1px solid #EAEDED;
+}
+
+.border_color {
+    border: 1px solid #131921;
+}
+
+.border_color1:hover {
+    border: 1px solid #EAEDED;
+}
+
+.border_color1 {
+    border: 1px solid #232F3A;
+    @apply px-[10px] py-[5px]
+}
